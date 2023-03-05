@@ -1,4 +1,9 @@
-# Java-labs
+# Laborator JAVA
+
+## Orar
+| Ziua          | Grupa        | Ora          | Sala         |
+| ------------- |:-------------|:-------------|:-------------|
+| MARȚI         | 1053         | 7:30         | 2317       |
 
 #### Mediu de dezvoltare recomandat: IntelliJ IDEA v2021.3 (JetBrains)
 
