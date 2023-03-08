@@ -1,0 +1,14 @@
+4
+2
+4,Alex Ion,1053 D
+SDD,10
+JAVA,10
+2,Paul Paul,1053 D
+SDD,10
+JAVA,10
+0,Alex Alex,1053 D
+C++,10
+JAVA,10
+1,Alex Alex,1053 D
+C++,10
+JAVA,10
