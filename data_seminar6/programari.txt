@@ -1,0 +1,120 @@
+Luni	Ora900	782	SGBD Oracle	1102	true	C
+Luni	Ora1200	767	Programarea aplicațiilor Windows	2103	true	D
+Luni	Ora1200	696	Programare evolutivă și algoritmi genetici	1201	true	E
+Luni	Ora1330	1105	Macroeconomie cantitativă	1201	true	E
+Luni	Ora730	1547	Programare multiparadigmă - Java	2201	true	C
+Luni	Ora1030	782	SGBD Oracle	2017	false	1045
+Luni	Ora1200	782	SGBD Oracle	2017	false	1046
+Luni	Ora1030	1576	Programare evolutivă și algoritmi genetici	2319	false	1046
+Luni	Ora1030	691	Programarea aplicațiilor Windows	2320	false	1047
+Luni	Ora1500	691	Programarea aplicațiilor Windows	2016	false	1055
+Luni	Ora1200	691	Programarea aplicațiilor Windows	2320	false	1048
+Luni	Ora1330	1000	Programarea aplicațiilor Windows	2212	false	1053
+Luni	Ora1330	767	Programarea aplicațiilor Windows	2303	false	1054
+Luni	Ora1030	23921	Programare multiparadigmă - Java	2305	false	1048
+Luni	Ora1500	1000	Programare multiparadigmă - Java	2001 A	false	1051
+Luni	Ora1030	696	Programare evolutivă și algoritmi genetici	2317	false	1049
+Luni	Ora1330	1576	Programare evolutivă și algoritmi genetici	2317	false	1052
+Luni	Ora1500	1576	Programare evolutivă și algoritmi genetici	2317	false	1053
+Luni	Ora1330	696	Programare evolutivă și algoritmi genetici	2320	false	1050
+Luni	Ora1500	696	Programare evolutivă și algoritmi genetici	2320	false	1058
+Luni	Ora1500	497	Macroeconomie cantitativă	2304	false	1050
+Luni	Ora1500	1105	Macroeconomie cantitativă	2215	false	1056
+Luni	Ora1630	831	Antreprenoriat în comerț, turism și servicii	1102	true	3
+Luni	Ora1630	9191	Structuri de date	2001A	false	1056
+Luni	Ora1800	497	Macroeconomie cantitativă	2621	false	1051
+Marți	Ora1500	1000	Programare multiparadigmă - Java	2203	true	D
+Marți	Ora900	691	Programarea aplicațiilor Windows	2104	true	C
+Marți	Ora900	1453	Programarea aplicațiilor Windows	2103	true	E
+Marți	Ora1330	1576	Programare evolutivă și algoritmi genetici	2204	true	C
+Marți	Ora1030	782	SGBD Oracle	2211	false	1047
+Marți	Ora1200	782	SGBD Oracle	2211	false	1048
+Marți	Ora1200	36403	SGBD Oracle	2209	false	1049
+Marți	Ora1330	605	SGBD Oracle	2017	false	1050
+Marți	Ora1630	36403	SGBD Oracle	2209	false	1051
+Marți	Ora1330	36403	SGBD Oracle	2209	false	1052
+Marți	Ora1200	52463	Macroeconomie cantitativă	2621	false	1045
+Marți	Ora1200	1576	Programare evolutivă și algoritmi genetici	2317	false	1047
+Marți	Ora1200	691	Programarea aplicațiilor Windows	2212	false	1046
+Marți	Ora730	605	SGBD Oracle	2017	false	1057
+Marți	Ora730	548	Programarea aplicațiilor Windows	2016	false	1056
+Marți	Ora1630	1000	Programarea aplicațiilor Windows	2016	false	1050
+Marți	Ora1330	1000	Programarea aplicațiilor Windows	2320	false	1051
+Marți	Ora1800	54055	Programarea aplicațiilor Windows	2317	false	1052
+Marți	Ora1030	23921	Programare multiparadigmă - Java	2305	false	1049
+Marți	Ora1630	696	Programare evolutivă și algoritmi genetici	2001 A	false	1054
+Marți	Ora1630	497	Macroeconomie cantitativă	2304	false	1052
+Marți	Ora1330	497	Macroeconomie cantitativă	2214	false	1053
+Marți	Ora730	1105	Macroeconomie cantitativă	2320	false	1055
+Marți	Ora1030	1105	Macroeconomie cantitativă	2319	false	1057
+Marți	Ora1030	691	Programarea aplicațiilor Windows	2212	false	1045
+Marți	Ora1030	815	Structuri de date	2016	false	1046
+Marți	Ora1030	605	SGBD Oracle	2017	false	1058
+Marți	Ora1330	45250	Programare multiparadigmă - Java	2317	false	1054
+Joi	Ora1200	1316	Structuri de date	2103	true	C
+Joi	Ora1200	497	Macroeconomie cantitativă	1101	true	D
+Joi	Ora1500	545	SGBD Oracle	AMF. I	true	D
+Joi	Ora1200	605	SGBD Oracle	1301	true	E
+Joi	Ora1330	892	Programare multiparadigmă - Java	1301	true	E
+Joi	Ora1330	691	Structuri de date	2320	false	1045
+Joi	Ora1330	1316	Structuri de date	2317	false	1053
+Joi	Ora1030	1316	Structuri de date	2317	false	1054
+Joi	Ora1030	691	Structuri de date	2320	false	1057
+Joi	Ora900	691	Structuri de date	2320	false	1058
+Joi	Ora1500	605	SGBD Oracle	2017	false	1056
+Joi	Ora1500	548	Programarea aplicațiilor Windows	2001 A	false	1058
+Joi	Ora1330	548	Programarea aplicațiilor Windows	2001 A	false	1049
+Joi	Ora1330	45250	Programare multiparadigmă - Java	2305	false	1047
+Joi	Ora1500	892	Programare multiparadigmă - Java	2016	false	1055
+Joi	Ora1030	892	Programare multiparadigmă - Java	2016	false	1056
+Joi	Ora1330	696	Programare evolutivă și algoritmi genetici	2001 D	false	1051
+Joi	Ora1500	696	Programare evolutivă și algoritmi genetici	2001 D	false	1057
+Joi	Ora1330	52463	Macroeconomie cantitativă	2211	false	1046
+Joi	Ora1330	497	Macroeconomie cantitativă	2215	false	1054
+Joi	Ora1330	29775	Programare multiparadigmă - Java	2016	false	1050
+Joi	Ora1330	64859	Macroeconomie cantitativă	2303	false	1048
+Joi	Ora1030	605	SGBD Oracle	2215	false	1055
+Joi	Ora1030	52463	Macroeconomie cantitativă	2319	false	1058
+Joi	Ora1030	24716	Managementul riscului în afaceri internaționale	1204	false	2,1
+Joi	Ora1630	85547	Negocieri internaționale	0321	false	5,1
+Joi	Ora1030	41500	Antreprenoriat în comerț, turism și servicii	1309	false	3,3
+Joi	Ora1500	1074	Macroeconomie cantitativă	1309	true	C
+Vineri	Ora900	1576	Programare evolutivă și algoritmi genetici	1101	true	D
+Vineri	Ora1030	1316	Structuri de date	2102	true	D
+Vineri	Ora1330	1316	Structuri de date	2203	true	E
+Vineri	Ora1330	605	SGBD Oracle	2017	false	1053
+Vineri	Ora1200	605	SGBD Oracle	2017	false	1054
+Vineri	Ora1200	1316	Structuri de date	2209	false	1051
+Vineri	Ora1200	1547	Structuri de date	2001 D	false	1052
+Vineri	Ora1030	1547	Programare multiparadigmă - Java	2001 D	false	1045
+Vineri	Ora900	34851	Structuri de date	2016	false	1048
+Vineri	Ora900	54055	Programarea aplicațiilor Windows	2001 D	false	1057
+Vineri	Ora1200	1000	Programare multiparadigmă - Java	2320	false	1053
+Vineri	Ora1030	696	Programare evolutivă și algoritmi genetici	2317	false	1048
+Vineri	Ora1200	696	Programare evolutivă și algoritmi genetici	2317	false	1055
+Vineri	Ora1030	64859	Macroeconomie cantitativă	1101	false	1047
+Vineri	Ora900	64859	Macroeconomie cantitativă	2316	false	1049
+Vineri	Ora1500	29775	Programare multiparadigmă - Java	2016	false	1058
+Vineri	Ora1200	29775	Programare multiparadigmă - Java	2016	false	1057
+Vineri	Ora1330	29775	Programare multiparadigmă - Java	2016	false	1052
+Vineri	Ora1200	41500	Antreprenoriat în comerț, turism și servicii	1309	false	3,1
+Vineri	Ora730	916	Gestiunea financiară a întreprinderii	2102	true	4
+Vineri	Ora730	85547	Negocieri internaționale	0334	true	5
+Vineri	Ora1500	1222	Programare evolutivă și algoritmi genetici	2320	false	1056
+Vineri	Ora900	48631	Programare evolutivă și algoritmi genetici	2317	false	1045
+Vineri	Ora900	9191	Structuri de date	2001 A	false	1047
+Vineri	Ora1030	9191	Structuri de date	2001 A	false	1049
+Vineri	Ora1200	9191	Structuri de date	2001 A	false	1050
+Vineri	Ora1500	9191	Structuri de date	2001 A	false	1055
+Vineri	Ora900	23921	Programare multiparadigmă - Java	2305	false	1046
+Luni	Ora1030	24716	Managementul riscului în afaceri internaționale	1204	false	2,2
+Luni	Ora1030	41500	Antreprenoriat în comerț, turism și servicii	1309	false	3,5
+Joi	Ora1030	916	Gestiunea financiară a întreprinderii	8206	false	4,3
+Joi	Ora1630	85547	Negocieri internaționale	0321	false	5,2
+Joi	Ora1800	85547	Negocieri internaționale	0005	false	5,3
+Joi	Ora1030	41500	Antreprenoriat în comerț, turism și servicii	1309	false	3,4
+Vineri	Ora900	916	Gestiunea financiară a întreprinderii	8206	false	4,1
+Vineri	Ora1200	41500	Antreprenoriat în comerț, turism și servicii	1309	false	3,2
+Luni	Ora1330	497	Macroeconomie cantitativă	2618	false	1051
+Joi	Ora900	916	Gestiunea financiară a întreprinderii	8206	false	4,2
+Miercuri	Ora1500	497	Macroeconomie cantitativă	2215	false	1054
