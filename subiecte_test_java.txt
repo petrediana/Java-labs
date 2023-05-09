@@ -1,0 +1,77 @@
+Numarul 1:
+
+În fișierul masini.txt se găsesc informații privind mașinile disponibile într-un showroom.
+Pe fiecare linie se află informații despre o mașină, astfel: nume mașină (șir de caractere), model (enumerare), an de fabricație (număr întreg).
+Valorile sunt despărțite prin virgulă.
+
+Să se scrie o aplicație Java care să îndeplinească următoarele cerințe:
+
+Să se construiască o clasă imutabilă Mașină care să permită stocarea informațiilor despre o mașină conform structurii de mai sus.
+Punctaj: 2 puncte
+
+Criteriu de acordare a punctajului: verificarea manuală a îndeplinirii cerinței (1 punct fără imutabilitate)
+
+Să afișeze la consolă numărul total de mașini disponibile în showroom
+Punctaj: 2 puncte
+
+Criteriu de acordare a punctajului: afișarea corectă la consolă
+
+Să afișeze la consolă lista modelelor de mașini disponibile în showroom sortată în ordine alfabetică.
+Pentru fiecare model se va afișa numărul total de mașini disponibile în showroom.
+
+Punctaj: 3 puncte
+
+Criteriu de acordare a punctajului: afișarea corectă la consolă (punctaj parțial 1.5 puncte fără sortare)
+
+Să se genereze un fișier binar care să conțină lista de mașini disponibile în showroom.
+Să se afișeze la consolă conținutul fișierului.
+
+Punctaj: 3 puncte
+
+
+Exemplu fisier:
+Focus-ST,FORD,2020
+Mazda3,MAZDA,2019
+Swift,SUZUKI,2016
+Mazda2,MAZDA,2022
+Mazda6,MAZDA,2023
+Mustang-GT,FORD,2015
+Vitara,SUZUKI,2019
+Stinger,KIA,2018
+
+
+Numarul 2:
+
+În fișierul "produse.txt" se găsesc informații privind produsele disponibile într-un magazin online.
+Pe fiecare linie se află informații despre un produs, astfel: nume produs (șir de caractere), categorie (enumerare), preț (număr întreg).
+Valorile sunt despărțite prin virgulă.
+
+Să se scrie o aplicație Java care să îndeplinească următoarele cerințe:
+
+Să se construiască o clasă imutabilă Produs care să permită stocarea informațiilor despre un produs conform structurii de mai sus.
+Punctaj: 2 puncte
+Criteriu de acordare a punctajului: verificarea manuală a îndeplinirii cerinței (1 punct fără imutabilitate)
+
+Să afișeze la consolă numărul total de produse disponibile în magazin.
+Punctaj: 2 puncte
+Criteriu de acordare a punctajului: afișarea corectă la consolă
+
+Să afișeze la consolă lista categoriilor de produse disponibile în magazin sortată în ordine alfabetică.
+Pentru fiecare categorie se va afișa numărul total de produse disponibile în magazin.
+Punctaj: 3 puncte
+
+Criteriu de acordare a punctajului: afișarea corectă la consolă (punctaj parțial 1.5 puncte fără sortare)
+
+Să se genereze un fișier binar care să conțină lista de produse disponibile în magazin.
+Să se afișeze la consolă conținutul fișierului.
+Punctaj: 3 puncte
+
+Exemplu de fișier "produse.txt":
+Telefon Samsung,GADGET,2000
+Telefon Apple,GADGET,3000
+Televizor LG,TV,2500
+Televizor Samsung,TV,3000
+Laptop Dell,PC,4000
+Laptop HP,PC,3500
+Tableta Lenovo,GADGET,1500
+Smartwatch Apple,WEARABLE,2000
