@@ -27,3 +27,5 @@ De urmărit:
 - BinaryOperator<T> - funcție apply care primește doi parametri de tip T și întoarce o valoare de tip T
 - Consumer<T> - funcție accept care primește un parametru de tip T și consumă valoarea fără a întoarce un rezultat
 - Supplier<T> - funcție get care nu primește params și generează un rezultat de tip T
+  
+  Link download SQLiteStudio: https://sqlitestudio.pl/
