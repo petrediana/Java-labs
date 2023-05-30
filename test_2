@@ -1,0 +1,17 @@
+Cerinte:
+
+1. Definiți o interfață numită "Animal" care conține două metode: "getNume()" și "getTip()".
+
+2. Creați o clasă concreta "Lup" care extinde interfața "Animal",  implementeaza metodele din interfata si are urmatoarele proprietati:
+    - nume: string;
+    - varsta: number;
+    - animale pe care le vaneaza: List<String>;
+    - tip: string;
+
+3. Pentru clasa creata anterior implementati metodele aferente interfetei Clonable (deep copy)
+
+4. Creati cateva obiecte de tip "Lup" scoate intr-o lista.
+
+5. Salvati lista aferenta intr-un fisier binar folosind serializarea.
+
+6. Cititi lista din fisierul binar creat anterior.
