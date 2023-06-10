@@ -1,0 +1,222 @@
+[
+   {
+      "denumire": "(Departament) MANAGEMENT",
+      "numarProfesori": 202
+   },
+   {
+      "denumire": "(Departament) INFORMATICĂ ȘI CIBERNETICĂ ECONOMICĂ",
+      "numarProfesori": 200
+   },
+   {
+      "denumire": "(Departament) MARKETING",
+      "numarProfesori": 194
+   },
+   {
+      "denumire": "(Departament) CONTABILITATE SI AUDIT",
+      "numarProfesori": 165
+   },
+   {
+      "denumire": "(Departament) RELAŢII ECONOMICE INTERNAŢIONALE",
+      "numarProfesori": 163
+   },
+   {
+      "denumire": "(Departament) LIMBI MODERNE SI COMUNICARE IN AFACERI",
+      "numarProfesori": 153
+   },
+   {
+      "denumire": "CERCETARE",
+      "numarProfesori": 135
+   },
+   {
+      "denumire": "(Departament)  ADMINISTRAREA AFACERILOR CU PREDARE IN LIMBI STRAINE (CATEDRA UNESCO) ",
+      "numarProfesori": 129
+   },
+   {
+      "denumire": "(Departament) MONEDA SI BANCI",
+      "numarProfesori": 104
+   },
+   {
+      "denumire": "(Departament) FINANTE",
+      "numarProfesori": 98
+   },
+   {
+      "denumire": "(Departament) ADMINISTRATIE SI MANAGEMENT PUBLIC",
+      "numarProfesori": 92
+   },
+   {
+      "denumire": "(Departament) ECONOMIE SI POLITICI ECONOMICE",
+      "numarProfesori": 84
+   },
+   {
+      "denumire": "(Departament) ECONOMIA AGROALIMENTARA SI A MEDIULUI",
+      "numarProfesori": 84
+   },
+   {
+      "denumire": "(Departament) STATISTICA SI ECONOMETRIE",
+      "numarProfesori": 84
+   },
+   {
+      "denumire": "(Departament) BUSINESS, STIINTELE CONSUMATORULUI SI MANAGEMENTUL CALITATII",
+      "numarProfesori": 66
+   },
+   {
+      "denumire": "(Departament) DREPT",
+      "numarProfesori": 66
+   },
+   {
+      "denumire": "PROFESORI CONSULTANTI",
+      "numarProfesori": 65
+   },
+   {
+      "denumire": "(Departament) EDUCATIE FIZICA SI SPORT",
+      "numarProfesori": 58
+   },
+   {
+      "denumire": "(Departament) INFORMATICĂ DE GESTIUNE",
+      "numarProfesori": 51
+   },
+   {
+      "denumire": "(Departament) MATEMATICI APLICATE",
+      "numarProfesori": 48
+   },
+   {
+      "denumire": "(Departament) TURISM SI GEOGRAFIE",
+      "numarProfesori": 48
+   },
+   {
+      "denumire": "DEPARTAMENTUL PENTRU PREGĂTIREA PERSONALULUI DIDACTIC",
+      "numarProfesori": 29
+   },
+   {
+      "denumire": "(Departament) FILOSOFIE SI STIINTE SOCIO-UMANE",
+      "numarProfesori": 28
+   },
+   {
+      "denumire": "(Departament) ANALIZA SI EVALUARE ECONOMICA-FINANCIARA",
+      "numarProfesori": 25
+   },
+   {
+      "denumire": "(Departament) DOCTRINE ECONOMICE SI COMUNICARE",
+      "numarProfesori": 19
+   },
+   {
+      "denumire": "",
+      "numarProfesori": 10
+   },
+   {
+      "denumire": "M.B.A. ROMANO-CANADIAN",
+      "numarProfesori": 5
+   },
+   {
+      "denumire": "RELAŢII ECONOMICE INTERNAŢIONALE",
+      "numarProfesori": 4
+   },
+   {
+      "denumire": "LIMBI GERMANICE",
+      "numarProfesori": 4
+   },
+   {
+      "denumire": "ADMINISTRAŢIE ŞI MANAGEMENT PUBLIC",
+      "numarProfesori": 3
+   },
+   {
+      "denumire": "ISTORIA ECONOMIEI SI GEOGRAFIE",
+      "numarProfesori": 3
+   },
+   {
+      "denumire": "MANAGEMENT",
+      "numarProfesori": 3
+   },
+   {
+      "denumire": "BUSINESS ŞI TURISM",
+      "numarProfesori": 3
+   },
+   {
+      "denumire": "(Departament) MBA Româno-Francez INDE (în limba engleză)",
+      "numarProfesori": 3
+   },
+   {
+      "denumire": "INFORMATICA ECONOMICA",
+      "numarProfesori": 3
+   },
+   {
+      "denumire": "ACADEMIA DE STUDII ECONOMICE DIN BUCUREȘTI",
+      "numarProfesori": 3
+   },
+   {
+      "denumire": "FINANŢE, ASIGURĂRI, BĂNCI ŞI BURSE DE VALORI",
+      "numarProfesori": 2
+   },
+   {
+      "denumire": "ISD",
+      "numarProfesori": 2
+   },
+   {
+      "denumire": "(Departament) DEZVOLTAREA ECONOMICA A INTREPRINDERII",
+      "numarProfesori": 2
+   },
+   {
+      "denumire": "MARKETING",
+      "numarProfesori": 2
+   },
+   {
+      "denumire": "CONTABILITATE ŞI INFORMATICĂ DE GESTIUNE",
+      "numarProfesori": 1
+   },
+   {
+      "denumire": "FILOSOFIE, POLITOLOGIE, SOCIOLOGIE",
+      "numarProfesori": 1
+   },
+   {
+      "denumire": "C.T.I.D. - BUZĂU",
+      "numarProfesori": 1
+   },
+   {
+      "denumire": "CIBERNETICA ECONOMICA",
+      "numarProfesori": 1
+   },
+   {
+      "denumire": "I.N.D.E",
+      "numarProfesori": 1
+   },
+   {
+      "denumire": "EFICIENTA ECONOMICA",
+      "numarProfesori": 1
+   },
+   {
+      "denumire": "(Departament) Business Administration, Programul MBA româno - canadian ",
+      "numarProfesori": 1
+   },
+   {
+      "denumire": "ERASMUS",
+      "numarProfesori": 1
+   },
+   {
+      "denumire": "BUCHAREST BUSINESS SCHOOL (ŞCOALA DE AFACERI)",
+      "numarProfesori": 1
+   },
+   {
+      "denumire": "DIRECTIA RELATII INTERINSTITUTIONALE SI CU MEDIUL EC-SOCIAL",
+      "numarProfesori": 1
+   },
+   {
+      "denumire": "LIMBI ROMANICE SI COMUNICARE IN AFACERI",
+      "numarProfesori": 1
+   },
+   {
+      "denumire": "CIBERNETICĂ, STATISTICĂ ŞI INFORMATICĂ ECONOMICĂ",
+      "numarProfesori": 1
+   },
+   {
+      "denumire": "ECONOMIE AGROALIMENTARĂ ŞI A MEDIULUI",
+      "numarProfesori": 1
+   },
+   {
+      "denumire": "CONTABILITATE AUDIT SI CONTROL DE GESTIUNE",
+      "numarProfesori": 1
+   },
+   {
+      "denumire": "DEPARTAMENTUL DE FORMARE PERMANENTA",
+      "numarProfesori": 1
+   }
+]
