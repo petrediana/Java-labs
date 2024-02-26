@@ -1,0 +1,12 @@
+Realizați un program care utilizează o matrice astfel încât:
+	- numărul de linii și de coloane să fie citit de la consolă,
+	- valorile din matrice să fie citite de la consolă.
+
+Implementați următoarele metode:
+	- citire matrice - întoarce (returnează) void și nu primește parametrii,
+	- afișare matrice - întoarce (returnează) void și primește ca parametru o matrice,
+	- transpunere matrice - întoarce (returnează) tipul de date al matricei (int, double, foat) și primește ca parametru o matrice.
+
+Mențiune: Redirecționați fluxul de citire din consolă către un fișier. (vă folosiți de "Edit Run/Debug Configuration")
+
+Matrice transpusă: https://ro.wikipedia.org/wiki/Matrice_transpus%C4%83
