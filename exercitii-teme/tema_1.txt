@@ -1,0 +1,16 @@
+Crearea unei clase imutabile: creați o clasă imutabilă numită Carte. Clasa Carte trebuie să aibă următoarele caracteristici:
+
+- Atribute private finale pentru titlu (String), autor (String), și anul publicării (int).
+- Un constructor care inițializează toate cele trei atribute.
+- Metode de acces (getters) pentru fiecare atribut, deoarece atributele sunt finale și nu există setters.
+
+Crearea unei clase care utilizează un array de obiecte a clasei imutabile: A doua parte -> creați o clasă numită Biblioteca care să conțină un array de obiecte de tip Carte.
+
+Clasa Biblioteca trebuie să aibă un atribut privat care să reprezinte un array de Carte, un atribut privat denumire si un atribut privat adresa.
+- Includeți un constructor care inițializează array-ul cu o dimensiune specificată prin parametru.
+- Implementați o metodă adaugaCarte(Carte carte) care adaugă o carte în array, dacă există spațiu disponibil, in caz contrar afisati un mesaj in consola.
+- Implementați o metodă cautaDupaTitlu(String titlu) care returnează toate cărțile din bibliotecă care au titlul specificat.
+
+Suprascrierea metodei toString:
+- Pentru clasa Carte, suprascrieți metoda toString() pentru a returna un șir de caractere care să includă titlul, autorul, și anul publicării cărții.
+- Pentru clasa Biblioteca, suprascrieți metoda toString() pentru a returna o listă a cărților din bibliotecă, fiecare carte fiind reprezentată prin șirul de caractere obținut prin apelul metodei toString() a clasei Carte.
