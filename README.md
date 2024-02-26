@@ -3,7 +3,7 @@
 ## Orar
 | Ziua          | Grupa        | Ora          | Sala         |
 | ------------- |:-------------|:-------------|:-------------|
-| MARȚI         | 1053         | 7:30         | 2317       |
+| LUNI          | 1058         | 7:30         | 2013B        |
 
 #### Mediu de dezvoltare recomandat: IntelliJ IDEA v2021.3 (JetBrains)
 
@@ -18,7 +18,7 @@ De urmărit:
 - redirectare fluxuri standard de intrare / ieșire (în special preluarea datelor de intrare din fișiere text)
 
 ### Alte resurse utile: 
-#### Stack Versus Heap: https://youtu.be/IX3fDYz0WyM
+#### Stack Versus Heap: https://www.youtube.com/watch?v=5OJRqkYbK-4
 
 #### Interfețe funcționale standard:
 - Function<T,R> - funcție apply care primește un parametru de tip T și întoarce o valoare de tip R
