@@ -1,0 +1,38 @@
+We are going to consider a simplified model of a food store. We will define two classes: FoodItem and Store.
+
+Task 1: The FoodItem Class
+Firstly, food items are well defined and they usually don't change once they're produced. For instance, an apple is an apple - its weight, type, and caloric value won't change. So FoodItem will be an immutable class.
+
+Define an immutable class called FoodItem.
+This class should have four properties:
+name String and type ENUM. They can represent the name (e.g. "Apple") and type (e.g. "Fruit") respectively.
+calories: one float property for the food item's caloric value.
+weight: one int property for the weight of the food item.
+
+Make sure that there are no setter methods for your properties because it's an immutable class.
+The FoodItem class should also include methods to calculate the caloric density (calories per gram) and to determine if the food item is a fruit (assume all food items of type "Fruit" are fruits).
+
+Task 2: The Store Class
+A store, on the other hand, can evolve. It may change its name, location, or the items it's selling. Therefore, the Store is mutable and will contain a list of FoodItem objects.
+
+Define a mutable class called Store.
+This class should have four properties:
+storeName and location: two String properties.
+numEmployees: one int property representing the number of employees.
+rating: one float property for the store's rating based on customer feedback.
+A property of a list with FoodItem objects.
+Implement methods in the Store class to calculate the average rating per employee and to search for a food item given its name.
+Remember to make the FoodItem and Store classes implement Comparable, hashCode, equals, and toString
+
+Your Main class:
+You'll need to run your program from a Main class. This class will create multiple instances of FoodItem and Store, manipulate their properties, and display data on the console. Command-Line Input: Some data for these objects should be read from the command-line. That is, you'll be reading the input from the terminal in IntelliJIDE. We will be redirecting console input for this.
+In the Main class, demonstrate the use of the equals() and compareTo() methods. Create a list of FoodItem objects and sort it. You could sort the array using Arrays.sort(), but also try manually using a sort algorithm such as bubble sort or selection sort.
+Don't forget to create a HashMap<FoodItem, String[]> where String[] represents the customers that have bought the FoodItem. Understand how to use equals() and hashCode() when deploying objects as HashMap keys.
+
+Command-Line Input
+To pass the command line arguments:
+
+Go to Run.
+Select Edit Configurations.
+In the Program Arguments fields, specify your arguments separated by spaces.
+Get familiar with java.util.Scanner - it's a class in Java which is used to get the input from the user both primitive types and Strings.
