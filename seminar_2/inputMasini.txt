@@ -1,0 +1,8 @@
+10,spring,dAcIA,2020
+11,kuga,Ford,2020
+12,raptor,Ford,2021
+13,vitara,Suzuki,2021
+14,sandero,Dacia,2023
+15,jogger,Dacia,2023
+16,swift,Suzuki,2024
+-1,dsfhaudfa,dsuhafudfha,201231
