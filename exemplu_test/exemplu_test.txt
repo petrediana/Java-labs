@@ -1,0 +1,22 @@
+În fișierul biblioteca.txt se găsesc informații privind cărțile disponibile într-o bibliotecă. Pe fiecare linie se află informații despre o carte, astfel: titlu carte (șir de caractere), autor (șir de caractere), anul publicării (număr întreg). Valorile sunt despărțite prin virgulă.
+
+Cerințe:
+
+Construirea unei clase imutabile Carte
+Clasa Carte trebuie să fie imutabilă și să permită stocarea informațiilor despre o carte conform structurii de mai sus.
+
+Afișarea numărului total de cărți din bibliotecă
+Afișați la consolă numărul total de cărți disponibile în bibliotecă.
+
+
+Sortarea și afișarea cărților după autor
+Afișați la consolă lista cărților disponibile în bibliotecă, sortată în ordine alfabetică după autor.
+Pentru fiecare autor se va afișa numărul total de cărți disponibile în bibliotecă.
+
+Generarea unui HashMap
+Folosind lista de carti creati un obiect de tip HashMap cu urmatoarea structura: cheia numele autorului, valorile: lista de carti aferente
+autorului.
+
+Salvarea și citirea datelor dintr-un fișier binar
+Generați un fișier binar care să conțină lista de cărți disponibile în bibliotecă.
+Afișați la consolă conținutul fișierului binar citit.
