@@ -1,0 +1,8 @@
+Annotations in Java
+Use of custom annotations in Java. Several annotations are defined with different retention policies to control their visibility at runtime, compile-time, or neither. The `Dummy` class and its members are annotated with these custom annotations. The main method then illustrates how to check for the presence of these annotations and how to retrieve their values, providing an example of how annotations can be used to store metadata about classes and their members.
+
+Dynamic Object Creation and Reflection
+Illustrates a more complex use of Java's reflection capabilities to dynamically create and manipulate objects. The code reads metadata annotations to handle properties of an object (`Masina`) differently based on annotations like `IgnoraCamp` (to ignore fields), `Mesaj` (to display messages), and `Dimensiune` (to validate string lengths). Reading an object's attributes from the console, invoking methods, and using constructors dynamically. This is particularly useful for applications that require flexible data handling or are building frameworks that need to work generically with any class.
+
+Implementing a Command Line Interface
+The `Main` class is designed as a command-line interface to execute different operations based on user input. It includes methods to manipulate `Project` and `Task` objects, such as adding, listing, and removing tasks from a project. The main functionality is in handling these operations through text commands, illustrating how to build a simple but functional CLI.
