@@ -1,0 +1,8 @@
+Create a Java application that simulates the operation of an intelligent lighting system for a building. The system should automatically control the brightness of the lights based on the number of people in the room and the time of day. Use concepts of threads and synchronization to manage the system's state changes.
+
+Specifications:
+
+Implement a sensor (PersonSensor) that randomly generates the number of people in a room.
+Implement a controller (LightController) that adjusts the brightness of the lights based on data received from the sensor. The adjustments should be different for day and night.
+Ensure that all adjustments are thread-safe, using appropriate synchronization mechanisms to prevent race conditions.
+Include a main simulation that demonstrates the full functionality of the system in various test scenarios.
