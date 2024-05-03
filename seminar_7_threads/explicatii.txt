@@ -1,0 +1,14 @@
+1. 1.java - Thread Race
+Thread race scenario where multiple threads compete to count to 100 first. Each thread counts from 1 to 100. The first thread to reach 100 wins, and its ID is displayed as the winner.
+
+2. 2.java - Synchronized Account Operations
+Performing synchronized deposit operations to a bank account object using multiple threads. Each thread performs 1000 deposit operations, adding 1 unit each time to the account's balance. The synchronization ensures that no two threads can deposit simultaneously, preventing data inconsistency.
+
+3. 3.java - Producer and Consumer Problem
+Implements a classic producer-consumer problem using BlockingQueue. Producers add elements to the queue, while consumers remove them. The synchronization is managed automatically by the queue, handling concurrent access by multiple threads.
+
+4. 4.java - Semaphore Control
+Demonstrates the use of Semaphore class to limit access to a shared resource. Multiple threads attempt to increase the resource's counter, but the semaphore restricts the number of threads that can access the resource at the same time.
+
+5. 5.java - Fork/Join Framework
+Uses Fork/Join framework to find the maximum value in an array. It employs a recursive task (MaxTask) that splits the array into subarrays, computes the maximum in each, and then combines the results. The division of tasks allows for parallel processing, speeding up the operation especially for large arrays.
