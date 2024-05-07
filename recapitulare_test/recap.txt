@@ -1,0 +1,21 @@
+Define a Product and a Client model. This is their structure:
+    Product -> id, name, quantity, price
+    Client -> surname, lastname, ClientType (enum of entries: New, Special, Exclusive), Array of products
+
+Product has to be an immutable class!
+
+Define a Reader interface that will be used to generate concrete classes for reading information about products and clients from text/binary files.
+
+Define a Writer interface that will be used to generate concrete classes for writing information about products and clients to binary files.
+
+Calculate the total amount the client has to pay, also based on the client Type and the number of products a discount will be applied for the total sum.
+
+Use the Java stream API for the following:
+- group the list of clients by the ClientType
+- filter clients who have more than 5 bought products
+- map clients to their full name (have a list with the clients full name)
+- find all unique products of clients*
+    Extra Note*: Assuming `Product` has a proper `equals` and `hashCode` implemented, use a flatMap to get the products from the clients list and collect
+        the results to a `Set` to remove duplicates
+- find clients that have a specific Product
+- get the clients with the maximum number of products
