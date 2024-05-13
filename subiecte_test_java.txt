@@ -1,0 +1,51 @@
+Numarul 1
+
+În fișierul "echipamente.txt" se găsesc informații despre echipamentele dintr-un depozit. Pe fiecare linie sunt stocate date despre un echipament, sub forma: nume echipament (șir de caractere), tip (enumerare), greutate (număr întreg). Valorile sunt separate prin virgulă.
+
+1. Să se creeze o clasă imutabilă Echipament care stocheaza informațiile despre un echipament conform structurii date.
+
+2. Pentru fiecare tip de echipament să se afișeze la consolă numărul total de echipamente din depozit.
+
+3. Creati o structura de tipul HashMap unde cheia reprezinta un tip de echipament iar valoarea o lista de Echipament.
+
+4. Să se genereze un fișier "echipamente.dat" care să conțină lista de echipamente și să se afișeze la consolă conținutul acestui fișier.
+
+Bonus: 
+- Aflați care este echipamentul (sau daca sunt mai multe) cu cea mai mare greutate.
+
+Exemplu fisier:
+Bulzoder,Utilaj,3500
+Bormasina,Unealta,3
+Rotopercutor,Unealta,5
+Masina de ciment-1,Utilaj,5000
+Ciocan,Unealta,1
+Flex,Unealta,1
+Compresor,Utilaj,2000
+Masina de ciment-2,Utilaj,5000
+
+
+Numarul 2
+
+În fișierul "evenimente.txt" se găsesc informații despre evenimentele dintr-o organizație. Pe fiecare linie sunt stocate date despre un eveniment, sub forma: nume eveniment (șir de caractere), tip (enumerare), număr participanți (număr întreg). Valorile sunt separate prin virgulă.
+
+1. Să se creeze o clasă imutabilă Eveniment care stochează informațiile despre un eveniment conform structurii date.
+
+2. Pentru fiecare tip de eveniment să se afișeze la consolă numărul total de participanti.
+
+3. Creati o structura de tipul HashMapunde unde cheia reprezintă un tip de eveniment iar valoarea o listă de obiecte Eveniment.
+
+4. Să se genereze un fișier "evenimente.dat" care să conțină lista de evenimente și să se afișeze la consolă conținutul acestui fișier.
+
+Bonus:
+- Aflați care este evenimentul (sau dacă sunt mai multe) cu cel mai mare număr de participanți.
+
+
+Exemplu fisier:
+Concert,Public,350
+Conferinta,Academic,100
+Workshop,Academic,50
+Festival,Public,5000
+Intalnire,Privat,5
+Seminarii,Academic,80
+Targ,Public,2000
+Expozitie,Public,5000
