@@ -4,35 +4,19 @@ import org.json.JSONTokener;
 
 import java.io.FileReader;
 import java.io.FileWriter;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello world!");
-
-        // JSON - JavaScript Object Notation {}
-
         List<Profesor> profesori = new ArrayList<>();
-        try (var fisier = new FileReader("date\\profesori.json")) {
+        try (var fisier = new FileReader("date/profesori.json")) {
 
-            /* Varianta 1 cu for clasic */
             var jsonArrayProfesori = new JSONArray(new JSONTokener(fisier));
-//            for (int i = 0; i < jsonArrayProfesori.length(); ++i) {
-//                var jsonProfesor = jsonArrayProfesori.getJSONObject(i);
-//
-//                profesori.add(
-//                        new Profesor(
-//                                jsonProfesor.getInt("idProfesor"),
-//                                jsonProfesor.getString("prenume"),
-//                                jsonProfesor.getString("nume"),
-//                                jsonProfesor.getString("departament")
-//                        )
-//                );
-//            }
-
-            /* Varianta 2 cu stream api */
             profesori = StreamSupport.stream(jsonArrayProfesori.spliterator(), false)
                     .map(obiect -> (JSONObject)obiect)
                     .map(obiect -> new Profesor(
@@ -43,7 +27,8 @@ public class Main {
                     ))
                     .collect(Collectors.toList());
         }
-        System.out.println(profesori.get(0));
+
+        System.out.println(profesori);
 
         Map<String, List<Profesor>> grupare = new HashMap<>();
         for (int i = 0; i < profesori.size(); ++i) {
@@ -57,15 +42,20 @@ public class Main {
             }
         }
 
-//        System.out.println(grupare.get("CERCETARE"));
-//        System.out.println(grupare.get("CERCETARE").size());
+        System.out.println("------");
+
+        System.out.println(grupare);
+
+        System.out.println("------");
+
+        System.out.println(grupare.get("CERCETARE"));
+        System.out.println(grupare.get("CERCETARE").size());
+
+        System.out.println("------");
+
 
         Map<String, List<Profesor>> grupareStream = profesori.stream()
-                        .collect(Collectors.groupingBy(Profesor::getDepartament));
-
-//        System.out.println(grupareStream.get("CERCETARE"));
-//        System.out.println(grupareStream.get("CERCETARE").size());
-
+                .collect(Collectors.groupingBy(Profesor::getDepartament));
 
         List<Departament> departamente = grupareStream
                 .entrySet()
@@ -79,6 +69,8 @@ public class Main {
 
         System.out.println(departamente);
 
+        System.out.println("------");
+
         // Salvare in fisier JSON
         JSONArray jsonArrayDepartamente = new JSONArray();
         for (var departament : departamente) {
@@ -89,8 +81,9 @@ public class Main {
             jsonArrayDepartamente.put(jsonDepartament);
         }
 
-        try (var fisier = new FileWriter("date\\departamente.json")) {
+        try (var fisier = new FileWriter("date/departamente.json")) {
             jsonArrayDepartamente.write(fisier, 3, 0);
         }
+
     }
 }
