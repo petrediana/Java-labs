@@ -1,0 +1,20 @@
+1,John Doe,Great product and fast delivery. Very satisfied!,9.0
+2,Jane Smith,Quality was not as expected.,4.0
+3,Noah Johnson,Customer service is superb!,10.0
+4,Emma Watson,Delivery took longer than expected.,5.0
+5,Oliver Brown,The product is worth the price.,8.5
+6,Ava Davis,Amazing product. I strongly recommend.,10.0
+7,Liam Miller,Very disappointed with the product quality.,2.0
+8,Sophia Wilson,Best product in the market!,10.0
+9,Mia Moore,Product arrived damaged.,1.5
+10,Isabella Taylor,Great quality and value for money.,9.0
+11,Lucas White,Fast delivery but poor product quality.,5.0
+12,Charlotte Harris,Satisfactory product, could be better,6.0
+13,Harper Martin,Incredible service and product quality,10.0
+14,Evelyn Thompson,Good product but late delivery,6.5
+15,Benjamin Garcia,The product does not match the description,2.0
+16,Ella Martinez,Satisfied with the purchase. A+ product.,9.5
+17,Ethan Robinson,Not happy with the product or service.,2.0
+18,Olivia Clark,Excellent quality and fast delivery.,9.5
+19,James Rodriguez,The product was defective on arrival.,2.0
+20,Aria Lewis,Great value for money and timely delivery,9.0
